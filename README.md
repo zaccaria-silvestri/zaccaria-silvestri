@@ -3,25 +3,14 @@ Zaccaria Silvestri
 
 
 - 👋 Hi, I’m @zaccaria-silvestri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 💥 ...
-
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-9047-4802"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-9047-4802
-    </a>
+- 👀 More about my scientific work in my [personnal page](https://inm.cnam.fr/zaccaria-silvestri-976348.kjsp?RH=1518506626264) [WIP]
+- 💥 My github repositories
+  - [Sac2Mat](https://github.com/zaccaria-silvestri/Sac2Mat) [Available Soon]
+  - [MagPyMat](https://github.com/zaccaria-silvestri/MagPyMat) [Available Soon]
+- 💥 My work and publications
+  - [Archive ouverte HAL](https://cv.hal.science/zaccaria-silvestri)
+  - [OrcID](https://orcid.org/0000-0002-9047-4802)
+  - [ReseachGate](https://www.researchgate.net/profile/Zaccaria_Silvestri)
 
 <!---
 zaccaria-silvestri/zaccaria-silvestri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
