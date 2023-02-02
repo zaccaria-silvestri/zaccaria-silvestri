@@ -1,8 +1,4 @@
-Zaccaria Silvestri
-
-
-
-- 👋 Hi, I’m @zaccaria-silvestri
+👋 Hi, welcome to my Github page
 - 👀 More about my scientific work in my [personnal page](https://inm.cnam.fr/zaccaria-silvestri-976348.kjsp?RH=1518506626264) [WIP]
 - 💥 My github repositories
   - [Sac2Mat](https://github.com/zaccaria-silvestri/Sac2Mat) [Available Soon]
